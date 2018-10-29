@@ -95,7 +95,7 @@ if (msg.content.toLowerCase() == "Gnaydın") return msg.channel.send("Günaydın
 if (msg.content.toLowerCase() == "cry") return msg.channel.send("");
 
 if (msg.content.toLowerCase() == "sa") return msg.channel.send("Aleyküm Selam");
-
+	
 
 if (msg.content.toLowerCase() == "selamun aleyküm") return msg.channel.send("Aleyküm Selam");
 
@@ -142,6 +142,7 @@ if (msg.content.toLowerCase() == "boş yapma") return msg.channel.send("Boş Yob
 if (msg.content.toLowerCase() == "deniz benim") return msg.channel.send("😡😡😡😡😡");
 
 if (msg.content.toLowerCase() == "ağla") return msg.channel.send("Ayb 😡");
+if (msg.content.toLowerCase() == "yarrak") return msg.channel.send("götüne sok, kardeşim neden küfür ediyorsun?");
 
 
 if (msg.content.toLowerCase() == "ses teyit gelebilirmisin") return msg.channel.send("Hey ! Ses teyiti ben alıcam uzaklaş bakalım sen ;) ");
